@@ -1,2 +1,2 @@
-# fm_bootcamp
-Frontend Masters Bootcamp
+# fm_webdev_course
+Frontend Masters Web Development course
